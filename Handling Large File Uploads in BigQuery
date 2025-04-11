@@ -1,0 +1,41 @@
+### File Splitting Using PowerShell
+
+---
+# Define file paths
+$inputFile = "C:\...\202308-divvy-tripdata.csv"
+$outputFile = "C:\...\output.csv"
+
+Write-Output "Starting the script..."
+
+# Check if input exists
+if (Test-Path -Path $inputFile) {
+    Write-Output "Input file found: $inputFile"
+} else {
+    Write-Output "Error: Input file not found at $inputFile"
+    exit
+}
+
+# Load CSV
+$data = Import-Csv -Path $inputFile
+Write-Output "Data imported successfully. Total rows: $($data.Count)"
+
+# Columns to remove
+$columnsToRemove = @("start_station_name", "start_station_id", "end_station_name", "end_station_id", "start_lat", "start_lng", "end_lat", "end_lng")
+
+# Create new data array
+$modifiedData = @()
+
+# Remove unwanted columns
+foreach ($row in $data) {
+    $newRow = New-Object PSObject
+    foreach ($property in $row.PSObject.Properties) {
+        if ($property.Name -notin $columnsToRemove) {
+            $newRow | Add-Member -MemberType NoteProperty -Name $property.Name -Value $property.Value
+        }
+    }
+    $modifiedData += $newRow
+}
+
+# Export cleaned data
+$modifiedData | Export-Csv -Path $outputFile -NoTypeInformation
+Write-Output "Script completed successfully. Output file saved at: $outputFile"
