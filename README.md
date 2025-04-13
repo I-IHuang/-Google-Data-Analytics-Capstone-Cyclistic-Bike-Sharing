@@ -228,14 +228,14 @@ Start Stations:
 - Annual Members:
 	- Top stations: Clinton St, Kingsbury St, Clark St.
 	- Use stations near business and transit hubs. Suggests regular commuting and work-related travel.
-![image](https://github.com/user-attachments/assets/8bf0685d-f242-4568-833e-6f238f1d3a02)
+![image](https://github.com/user-attachments/assets/e4e64667-d0ba-4755-812f-9f44d1702688)
 
 End Stations:
 - Casual Riders:
   	- Similar to the start stations, these locations are near tourist areas and provide easy access to the Lakefront Trail, museums, and downtown attractions.
 - Annual Members:
   	- The end stations are similar to the start stations, suggesting round trips or commuting patterns with a focus on business areas and convenient transit options.
-![image](https://github.com/user-attachments/assets/7ea2edaa-785e-4ee4-bf02-97acdb283aa5)
+![image](https://github.com/user-attachments/assets/8475b088-c43a-41f1-9a1c-6a5027e66f35)
 
 ### Key Takeaways: 
 - Casual Riders: Prefer stations near tourist spots, such as Navy Pier and Millennium Park, indicating leisure and recreational use.
