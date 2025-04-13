@@ -176,7 +176,7 @@ I analyzed the ride-sharing data to find the distinct usage patterns between cas
 - Casual riders peak in summer and on weekends, suggesting leisure use.
 - Members ride more on weekdays, especially Wednesdays.
 - Peak hour is 5 PM for both groups; members also ride more in the mornings.
-- 
+  
 ### Part 2: How Long Do They Ride?
 
 #### 2.1 Average Ride Duration 
