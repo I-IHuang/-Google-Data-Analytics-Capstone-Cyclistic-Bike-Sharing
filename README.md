@@ -230,11 +230,11 @@ Start Stations:
 	 - Kingsbury St & Kinzie St, Clinton St & Washington Blvd — located near business districts and transit hubs, making them convenient for commuting and routine travel.
 ![image](https://github.com/user-attachments/assets/8bf0685d-f242-4568-833e-6f238f1d3a02)
 
--	End Stations:
+End Stations:
 - Casual Riders:
-	- Similar to the start stations, these locations are near tourist areas and provide easy access to the Lakefront Trail, museums, and downtown attractions.
+ - Similar to the start stations, these locations are near tourist areas and provide easy access to the Lakefront Trail, museums, and downtown attractions.
 - Annual Members:
-	- The end stations are similar to the start stations, suggesting round trips or commuting patterns with a focus on business areas and convenient transit options.
+ - The end stations are similar to the start stations, suggesting round trips or commuting patterns with a focus on business areas and convenient transit options.
 ![image](https://github.com/user-attachments/assets/7ea2edaa-785e-4ee4-bf02-97acdb283aa5)
 
 ### Key Takeaways: 
