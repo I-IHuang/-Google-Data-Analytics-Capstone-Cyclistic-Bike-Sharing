@@ -86,8 +86,7 @@ These appropriate data types will support time and geospatial analysis without r
   **Other Fields**:
   - No null or blank values were found for `ride_id`, `rideable_type`, `started_at`, `ended_at`, or `member_casual`, indicating reliable tracking and user categorization for most trips
     
-![image](https://github.com/user-attachments/assets/ec630401-96f0-4b45-a8d8-39f8a4eba06c)
-
+![image](https://github.com/user-attachments/assets/570dd799-96fb-4305-9235-cec2ba90cc91)
 ![image](https://github.com/user-attachments/assets/fca8c8bd-7c93-4ce2-a753-f871528db1e1)
 
 #### Data Quality
