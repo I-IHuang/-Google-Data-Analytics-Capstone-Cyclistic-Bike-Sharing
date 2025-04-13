@@ -223,10 +223,11 @@ This suggests different purposes: casual riders likely ride for fun or explorati
 ### Where Do They Ride From? — Top 5 Popular Start & End Stations
 Start Stations:
 - Casual Riders:
-  	- Streeter Dr & Grand Ave and DuSable Lake Shore Dr & Monroe St — both located near popular tourist spots like Navy Pier and Millennium Park.
-   	These stations are ideal for casual riders looking to explore Chicago’s scenic landmarks.
+	- Top stations: Streeter Dr & Grand Ave, Shedd Aquarium, Lake Shore Drive areas.
+	- Prefer scenic and tourist-heavy locations. Indicates a focus on leisure and sightseeing.
 - Annual Members:
-	 - Kingsbury St & Kinzie St, Clinton St & Washington Blvd — located near business districts and transit hubs, making them convenient for commuting and routine travel.
+	- Top stations: Clinton St, Kingsbury St, Clark St.
+	- Use stations near business and transit hubs. Suggests regular commuting and work-related travel.
 ![image](https://github.com/user-attachments/assets/8bf0685d-f242-4568-833e-6f238f1d3a02)
 
 End Stations:
