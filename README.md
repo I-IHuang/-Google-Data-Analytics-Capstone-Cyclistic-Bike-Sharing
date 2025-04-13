@@ -16,7 +16,7 @@ In this case study, I take on the role of a junior data analyst, using the Ask, 
 Cyclistic, a fictional bike-sharing company in Chicago, has two main customer groups: casual riders and annual members. The company’s leadership is focused on finding ways to convert more casual riders into annual subscribers to boost long-term growth and customer loyalty.
 
 ### Overall Goal:
-Insights into the behavioral differences between casual riders and annual members to create strategies that convert more casual riders into annual members, boosting retention and profitability.
+Identify key behavioral differences between casual and annual riders to support strategic decisions that convert casual riders into annual subscribers, encouraging long-term membership and brand loyalty.
 
 ## ASK: Business Question/Stakeholder
 Three questions will guide the future marketing program:
@@ -29,7 +29,7 @@ Lily Moreno, the director of marketing and your manager, has assigned you the fi
 ## Prepare: Data Uploading & Combining
 
 ### Data Source
-For this analysis, I use Cyclistic’s historical trip data from Sep 2023 to Aug 2024, sourced from the divvy_tripdata dataset, provided by Motivate International Inc. under a public license. Note that while this data is publicly available, personally identifiable information is not included to protect user privacy. Data is stored securely and anonymized to maintain privacy. I have also verified the integrity of the data, ensuring its completeness and consistency for analysis.
+For this analysis, I use Cyclistic’s historical trip data from Sep 2023 to Aug 2024, sourced from the [divvy_tripdata dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), provided by Motivate International Inc. under a public license. Note that while this data is publicly available, personally identifiable information is not included to protect user privacy. Data is stored securely and anonymized to maintain privacy. I have also verified the integrity of the data, ensuring its completeness and consistency for analysis.
 
 ### Data Organization
 The data is structured into monthly CSV files and includes details like ride type, station information, start and end station coordinates, and user type. Some records have missing station names or coordinates (17%), but these gaps do not significantly affect the overall data quality.
