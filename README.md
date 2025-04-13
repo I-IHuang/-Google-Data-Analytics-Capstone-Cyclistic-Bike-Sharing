@@ -108,7 +108,7 @@ SQL Query: [Data Cleaning](#Data-Cleaning)
 - Rides shorter than 1 minute or longer than 24 hours were filtered out.
 - Only `ride_id`s with exactly 16 characters were retained.
 - Entries with `rideable_type = 'electric scooter'` were excluded due to limited data.
-- A total of 1,537,861 rows were removed during cleaning.
+- A total of 1,537,877 rows were removed during cleaning.
 
 ### Data Transformation:
 The following new columns were created:
