@@ -3,12 +3,14 @@
 ## Introduction
 In this case study, I take on the role of a junior data analyst, using the Ask, Prepare, Process, Analyze, Share, and Act framework to analyze user behavior and identify insights that can help shape marketing strategies to increase memberships.
 
+
 ### Quick Links:
 1. [Handling Large File Uploads.md](Handling%20Large%20File%20Uploads.md)
-2. [Data Combining] (Data%20Combining.md)
-3. Data Cleaning and Transformation
-4. Data Analysis and Visualization
-5. Data Visualization: Power BI
+2. [Data Combining](https://github.com/I-IHuang/Google-Data-Analytics-Capstone-Cyclistic-Bike-Sharing/blob/8b92ca34ab2b9da7c06235d074cb982913e35c5c/02.%20Data%20Combining.md)
+3. [Data Exploration](https://github.com/I-IHuang/Google-Data-Analytics-Capstone-Cyclistic-Bike-Sharing/blob/8b92ca34ab2b9da7c06235d074cb982913e35c5c/03.%20Data%20Exploration.md)
+4. [Data Cleaning and Transformation](https://github.com/I-IHuang/Google-Data-Analytics-Capstone-Cyclistic-Bike-Sharing/blob/8b92ca34ab2b9da7c06235d074cb982913e35c5c/03.%20Data%20Exploration.md)
+5. [Data Analysis and Visualization](https://github.com/I-IHuang/Google-Data-Analytics-Capstone-Cyclistic-Bike-Sharing/blob/8b92ca34ab2b9da7c06235d074cb982913e35c5c/03.%20Data%20Exploration.md)
+
 
 ## Company Background
 Cyclistic, a fictional bike-sharing company in Chicago, has two main customer groups: casual riders and annual members. The company’s leadership is focused on finding ways to convert more casual riders into annual subscribers to boost long-term growth and customer loyalty.
