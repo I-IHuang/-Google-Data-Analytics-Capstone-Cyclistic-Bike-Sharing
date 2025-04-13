@@ -246,5 +246,7 @@ End Stations:
 - Seasonal Campaigns: Run summer and winter promotions for casual riders. Introduce seasonal trials (e.g., a 3-month summer pass) with a discount for upgrading to an annual membership.
 - Reward System: Implement a loyalty program with ride points for membership discounts and a referral program for rewards.
 
-Credits
-Some EDA techniques adapted from: https://github.com/GaneshHonrao/Google-Data-Analytics-Capstone-Project-on-Cyclistic-Bike-Share-With-SQL-Tableau.git and https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study.git
+### Credits
+Some EDA techniques adapted from: 
+- https://github.com/GaneshHonrao/Google-Data-Analytics-Capstone-Project-on-Cyclistic-Bike-Share-With-SQL-Tableau.git
+- https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study.git
