@@ -82,11 +82,14 @@ These appropriate data types will support time and geospatial analysis without r
   - However, `end_lat` and `end_lng` are missing in 7,656 rows (~0.13%).
   **Other Fields**:
   - No null or blank values were found for `ride_id`, `rideable_type`, `started_at`, `ended_at`, or `member_casual`, indicating reliable tracking and user categorization for most trips
-  ![image](https://github.com/user-attachments/assets/ec630401-96f0-4b45-a8d8-39f8a4eba06c) ![image](https://github.com/user-attachments/assets/fca8c8bd-7c93-4ce2-a753-f871528db1e1)
+    
+  ![image](https://github.com/user-attachments/assets/ec630401-96f0-4b45-a8d8-39f8a4eba06c)
+  ![image](https://github.com/user-attachments/assets/fca8c8bd-7c93-4ce2-a753-f871528db1e1)
 
 #### Data Quality
 - **Duplicate Ride IDs**: A total of 636 duplicate `ride_id`s were identified, which could indicate system errors or duplicated entries that should be addressed during data cleaning.
 - **Inconsistent Ride ID Lengths**: The majority of `ride_id`s are 16 characters long (5,698,210), but a few (80 and 14) have 8 or 9 characters, respectively. This inconsistency suggests a possible change in the ID generation system or data integration from different sources.
+- 
  ![image](https://github.com/user-attachments/assets/ad13d256-450c-4c99-8288-d6a88d3da41f)
 
 - **Outliers in Ride Duration**:
