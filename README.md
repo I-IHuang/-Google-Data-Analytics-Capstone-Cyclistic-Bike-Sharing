@@ -29,21 +29,21 @@ Lily Moreno, the director of marketing and your manager, has assigned you the fi
 ## Prepare: Data Uploading & Combining
 
 ### Data Source
-For this analysis, I use Cyclistic’s historical trip data from Sep 2023 to Aug 2024, sourced from the [divvy_tripdata dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), provided by Motivate International Inc. under a public license. Note that while this data is publicly available, personally identifiable information is not included to protect user privacy. Data is stored securely and anonymized to maintain privacy. I have also verified the integrity of the data, ensuring its completeness and consistency for analysis.
+For this analysis, I use Cyclistic’s historical trip data from Sep 2023 to Aug 2024, sourced from the [divvy_tripdata dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), provided by Motivate International Inc. under a [public license](https://divvybikes.com/data-license-agreement). Note that while this data is publicly available, personally identifiable information is not included to protect user privacy. Data is stored securely and anonymized to maintain privacy. I have also verified integrity of the data and checked if the data is ROCCC, ensuring its completeness and consistency for analysis.
 
 ### Data Organization
 The data is structured into monthly CSV files and includes details like ride type, station information, start and end station coordinates, and user type. Some records have missing station names or coordinates (17%), but these gaps do not significantly affect the overall data quality.
 
-### Data Cleaning, Transformation, and Processing Tool:
-I chose BigQuery/SQL for cleaning and transforming the data because it efficiently handles large datasets (over 5.6 million rows), which would be slow and cumbersome to process in Excel.
+#### Data Cleaning, Transformation, and Processing Tool:
+I chose SQL in BigQuery to clean and transform the data because it efficiently handles large-scale datasets—like the 5.6 million+ rows in this project—far beyond Excel’s capacity, while enabling faster processing, automation, and reproducibility.
 
-### Analysis and Visualization Tool:
+#### Analysis and Visualization Tool:
 For visualization, I selected Power BI to align with my learning goals and the upcoming transition at my current company from Tableau to Power BI. Its user-friendly interface and integration with other tools make it ideal for in-depth analysis and reporting.
 
 ### Handling Large File Uploads in BigQuery
 PowerShell command: [Handling Large File Uploads.md](Handling%20Large%20File%20Uploads.md)
 
-Due to BigQuery’s 100 MB file size limit, I split each monthly file into two separate CSVs:
+Due to BigQuery’s 100 MB file size limit for uploading, I split each monthly file into two separate CSVs:
 - Main Trip Data (YYYYMM.csv)
 - Station Info (YYYYMM_Station.csv)
 
