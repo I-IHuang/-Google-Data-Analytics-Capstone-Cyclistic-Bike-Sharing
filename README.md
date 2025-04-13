@@ -86,8 +86,9 @@ These appropriate data types will support time and geospatial analysis without r
   **Other Fields**:
   - No null or blank values were found for `ride_id`, `rideable_type`, `started_at`, `ended_at`, or `member_casual`, indicating reliable tracking and user categorization for most trips
     
-![image](https://github.com/user-attachments/assets/570dd799-96fb-4305-9235-cec2ba90cc91)
-![image](https://github.com/user-attachments/assets/fca8c8bd-7c93-4ce2-a753-f871528db1e1)
+![image](https://github.com/user-attachments/assets/bb595a3a-d8ec-425d-b4de-92eb1c7bdd14)
+
+![image](https://github.com/user-attachments/assets/17583f75-4d16-4d0e-b404-654c43df61d0)
 
 #### Data Quality
 - **Duplicate Ride IDs**: A total of 636 duplicate `ride_id`s were identified, which could indicate system errors or duplicated entries that should be addressed during data cleaning.
