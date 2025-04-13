@@ -141,37 +141,37 @@ I analyzed the ride-sharing data to find the distinct usage patterns between cas
   
 ![image](https://github.com/user-attachments/assets/b4604895-7773-4311-bd04-5c73d944e410)
 
-#### 1.2 Seasonal Trends
+#### 1.1 Seasonal Trends
 -	Casual riders are highly seasonal: they ride most in summer, followed by Autumn, but much less in winter.
 -	Annual members ride year-round, even in winter, showing more consistent, daily use.
 
 ![image](https://github.com/user-attachments/assets/de181806-93f4-45d4-88b5-00e9583f3b57)
 
-#### 1.3 Monthly Patterns
+#### 1.2 Monthly Patterns
 -	For casual riders, the busiest months are July and August — peak summer — aligning with recreational use and favorable weather.
 -	Annual members also peak in August but ride steadily from May to November.
   
 ![image](https://github.com/user-attachments/assets/ba9b312b-d508-4278-9d99-e219ab149a82)
 
-#### 1.4 Weekday Patterns
+#### 1.3 Weekday Patterns
 - Casual riders prefer the weekends, especially Saturdays, pointing to leisure-focused trips.
 - Annual members are most active on weekdays, particularly Wednesdays, suggesting weekday commuting or regular travel routines.
 
 ![image](https://github.com/user-attachments/assets/6f298335-56f3-4025-95ac-52df3d9193fb)
 
-####  1.5 Time of Day Preferences
+####  1.4 Time of Day Preferences
 - The peak hour for both casual and member riders is 5:00 PM, with casual riders having slightly fewer rides than members at that time.
 - Casual riders have the longest average ride duration in the morning and evening, likely during commuting hours before and after work.
   
 ![image](https://github.com/user-attachments/assets/603d1e4e-4bd9-4e86-957e-dc2b1f2c511f)
 
-#### Hourly Patterns
+#### 1.5 Hourly Patterns
 -	5 PM is the most popular hour for both groups.
 -	Annual members show a secondary peak around 8 AM, reinforcing the commuting hypothesis.
 
 ![image](https://github.com/user-attachments/assets/21e02187-78d9-48d2-98fa-3b0216094782)
 
-#### Key Takeaways:
+### Key Takeaways:
 - Members ride more overall and consistently year-round.
 - Casual riders peak in summer and on weekends, suggesting leisure use.
 - Members ride more on weekdays, especially Wednesdays.
@@ -214,7 +214,7 @@ This suggests different purposes: casual riders likely ride for fun or explorati
 -	Members take the longest rides at 5 PM, likely heading home from work.
 ![image](https://github.com/user-attachments/assets/7d2ae255-0413-4bdd-9aeb-9e35ec37a236)
 
-#### Key Takeaways:
+### Key Takeaways:
 - Casual riders have longer rides (~24 mins) vs. members (~12 mins).
 - Casual ride durations are highest in summer and spring, especially May.
 - Weekends = longer casual rides; members stay consistent.
@@ -237,7 +237,7 @@ Start Stations:
 	- The end stations are similar to the start stations, suggesting round trips or commuting patterns with a focus on business areas and convenient transit options.
 ![image](https://github.com/user-attachments/assets/7ea2edaa-785e-4ee4-bf02-97acdb283aa5)
 
-Key Takeaways: 
+### Key Takeaways: 
 - Casual Riders: Prefer stations near tourist spots, such as Navy Pier and Millennium Park, indicating leisure and recreational use.
 - Annual Members: Use stations near business districts and transit hubs, suggesting regular commuting and daily travel.
 
