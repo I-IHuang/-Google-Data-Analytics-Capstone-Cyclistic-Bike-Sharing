@@ -72,7 +72,7 @@ These appropriate data types will support time and geospatial analysis without r
   - **Annual members**: 3,652,758 rides
   - **Casual riders**: 2,045,546 rides
     
-![image](https://github.com/user-attachments/assets/14573c66-395b-4eee-864f-51699cb6d85d)
+  ![image](https://github.com/user-attachments/assets/14573c66-395b-4eee-864f-51699cb6d85d)
 
 
 #### Missing & Blank Values
