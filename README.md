@@ -9,7 +9,7 @@ In this case study, I take on the role of a junior data analyst, using the Ask, 
 2. [Data Combining](https://github.com/I-IHuang/Google-Data-Analytics-Capstone-Cyclistic-Bike-Sharing/blob/8b92ca34ab2b9da7c06235d074cb982913e35c5c/02.%20Data%20Combining.md)
 3. [Data Exploration](https://github.com/I-IHuang/Google-Data-Analytics-Capstone-Cyclistic-Bike-Sharing/blob/8b92ca34ab2b9da7c06235d074cb982913e35c5c/03.%20Data%20Exploration.md)
 4. [Data Cleaning and Transformation](https://github.com/I-IHuang/Google-Data-Analytics-Capstone-Cyclistic-Bike-Sharing/blob/8b92ca34ab2b9da7c06235d074cb982913e35c5c/03.%20Data%20Exploration.md)
-5. [Data Analysis and Visualization](https://github.com/I-IHuang/Google-Data-Analytics-Capstone-Cyclistic-Bike-Sharing/blob/8b92ca34ab2b9da7c06235d074cb982913e35c5c/03.%20Data%20Exploration.md)
+5. [Data Analysis](https://github.com/I-IHuang/Google-Data-Analytics-Capstone-Cyclistic-Bike-Sharing/blob/8b92ca34ab2b9da7c06235d074cb982913e35c5c/03.%20Data%20Exploration.md)
 
 
 ## Company Background
