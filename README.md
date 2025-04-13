@@ -18,7 +18,7 @@ Cyclistic, a fictional bike-sharing company in Chicago, has two main customer gr
 ### Overall Goal:
 Identify key behavioral differences between casual and annual riders to support strategic decisions that convert casual riders into annual subscribers, encouraging long-term membership and brand loyalty.
 
-## ASK: Business Question/Stakeholder
+## Ask: Business Question/Stakeholder
 Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
