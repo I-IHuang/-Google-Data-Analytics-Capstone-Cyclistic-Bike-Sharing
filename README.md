@@ -71,7 +71,7 @@ These appropriate data types will support time and geospatial analysis without r
 - The member_casual variable divides users into two groups:
   - **Annual members**: 3,652,758 rides
   - **Casual riders**: 2,045,546 rides
-  ![image](https://github.com/user-attachments/assets/14573c66-395b-4eee-864f-51699cb6d85d)
+![image](https://github.com/user-attachments/assets/14573c66-395b-4eee-864f-51699cb6d85d)
 
 
 #### Missing & Blank Values
@@ -83,8 +83,8 @@ These appropriate data types will support time and geospatial analysis without r
   **Other Fields**:
   - No null or blank values were found for `ride_id`, `rideable_type`, `started_at`, `ended_at`, or `member_casual`, indicating reliable tracking and user categorization for most trips
     
-  ![image](https://github.com/user-attachments/assets/ec630401-96f0-4b45-a8d8-39f8a4eba06c)
-  ![image](https://github.com/user-attachments/assets/fca8c8bd-7c93-4ce2-a753-f871528db1e1)
+![image](https://github.com/user-attachments/assets/ec630401-96f0-4b45-a8d8-39f8a4eba06c)
+![image](https://github.com/user-attachments/assets/fca8c8bd-7c93-4ce2-a753-f871528db1e1)
 
 #### Data Quality
 - **Duplicate Ride IDs**: A total of 636 duplicate `ride_id`s were identified, which could indicate system errors or duplicated entries that should be addressed during data cleaning.
