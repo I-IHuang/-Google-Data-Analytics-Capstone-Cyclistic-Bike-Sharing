@@ -226,7 +226,6 @@ Start Stations:
   	- Streeter Dr & Grand Ave and DuSable Lake Shore Dr & Monroe St — both located near popular tourist spots like Navy Pier and Millennium Park.
    	These stations are ideal for casual riders looking to explore Chicago’s scenic landmarks.
 - Annual Members:
-	- Start Stations:
 	 - Kingsbury St & Kinzie St, Clinton St & Washington Blvd — located near business districts and transit hubs, making them convenient for commuting and routine travel.
 ![image](https://github.com/user-attachments/assets/8bf0685d-f242-4568-833e-6f238f1d3a02)
 
