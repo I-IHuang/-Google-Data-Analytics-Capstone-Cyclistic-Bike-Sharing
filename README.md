@@ -3,7 +3,7 @@
 ## Introduction
 In this case study, I take on the role of a junior data analyst, using the Ask, Prepare, Process, Analyze, Share, and Act framework to analyze user behavior and identify insights that can help shape marketing strategies to increase memberships.
 
-## Company Background
+### Company Background
 Cyclistic, a fictional bike-sharing company in Chicago, has two main customer groups: casual riders and annual members. The company’s leadership is focused on finding ways to convert more casual riders into annual subscribers to boost long-term growth and customer loyalty.
 
 ### Overall Goal:
