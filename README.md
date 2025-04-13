@@ -220,7 +220,7 @@ This suggests different purposes: casual riders likely ride for fun or explorati
 - Weekends = longer casual rides; members stay consistent.
 - Longest rides: Casuals: 11 AM; Members: 5 PM.
 
-### Where Do They Ride From? — Top 5 Popular Start & End Stations
+### Where Do They Ride From? — Popular Start & End Stations
 Start Stations:
 - Casual Riders:
 	- Top stations: Streeter Dr & Grand Ave, Shedd Aquarium, Lake Shore Drive areas.
