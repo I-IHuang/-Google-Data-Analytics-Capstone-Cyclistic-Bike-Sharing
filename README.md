@@ -58,6 +58,7 @@ All files were initially loaded as separate tables within the dataset ‘Capston
 
 ### Data Exploration
 - **General Overview**: The dataset comprises a total of 5,698,304 ride records and 13 columns before data cleaning.
+  
 ![image](https://github.com/user-attachments/assets/06bd00d1-73d2-43d9-a00a-8c1f0f6d85be)
 
 #### Schema and Data Types
@@ -65,6 +66,7 @@ All files were initially loaded as separate tables within the dataset ‘Capston
 - Time-related fields (`started_at`, `ended_at`) are stored as `TIMESTAMPs`.
 - Geographic coordinates (`start_lat`, `start_lng`, `end_lat`, `end_lng`) are in `FLOAT64` format.
 These appropriate data types will support time and geospatial analysis without requiring transformation.
+
 ![image](https://github.com/user-attachments/assets/802800cf-01e1-4fef-9552-cc0770621f3a)
 
 #### Key Variables
@@ -72,7 +74,7 @@ These appropriate data types will support time and geospatial analysis without r
   - **Annual members**: 3,652,758 rides
   - **Casual riders**: 2,045,546 rides
     
-  ![image](https://github.com/user-attachments/assets/14573c66-395b-4eee-864f-51699cb6d85d)
+ ![image](https://github.com/user-attachments/assets/14573c66-395b-4eee-864f-51699cb6d85d)
 
 
 #### Missing & Blank Values
